@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "天国へようこそ",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T15:59:30.946084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天国へようこそ - For The Disc",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_天国へようこそ_-_For_The_Disc_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tengoku e yōkoso For the Disc [天国へようこそ For The Disc]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Tengoku_e_yōkoso_For_the_Disc_[天国へようこそ_For_The_Disc]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天国へようこそ For The Disc",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_天国へようこそ_For_The_Disc_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天国へようこそ (For The Disc)",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/04_天国へようこそ_(For_The_Disc)_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天国へようこそ For The Tube",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/05_天国へようこそ_For_The_Tube_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天国へようこそ For The Tube",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/06_天国へようこそ_For_The_Tube_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天国へようこそ",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/07_天国へようこそ_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天国へようこそ　For The Disc",
+      "artist": "Tokyo Jihen (東京事変)",
+      "has_synced": true,
+      "path": "select/08_天国へようこそ_For_The_Disc_Tokyo_Jihen_(東京事変).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天国へようこそ",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/pl_01_天国へようこそ_Tokyo_Incidents.txt"
+    }
+  ]
+}
